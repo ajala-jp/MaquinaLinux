@@ -1,0 +1,9 @@
+model name	: Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz
+model name	: Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz
+
+
+comando usado para ver cpu do fodase
+
+cat /proc/cpuinfo | grep "Core" >> nomedapasta
+
+
